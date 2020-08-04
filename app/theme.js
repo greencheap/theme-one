@@ -10,7 +10,7 @@ UIkit.use(Icons);
  * CSS
  * import Theme2 from "../dist/css/uikit.theme-one.min.css"
  */
-
+import Theme2 from "../dist/css/uikit.theme-one.css"
 /**
  * CustomJs
  */
