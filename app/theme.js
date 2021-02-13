@@ -4,13 +4,15 @@ import UIkit from "uikit"
  * import Icons from "../dist/js/uikit-icons-my-theme"
  * UIkit.use(Icons);
  */
-import Icons from "../dist/js/uikit-icons-theme"
+import Icons from "../node_modules/uikit/dist/js/uikit-icons"
 UIkit.use(Icons);
+
+import "../custom/theme-one.less";
 /**
  * CSS
  * import Theme2 from "../dist/css/uikit.theme-one.min.css"
  */
-import Theme2 from "../dist/css/uikit.theme-one.css"
+//import Theme2 from "../dist/css/uikit.theme-one.css"
 /**
  * CustomJs
  */

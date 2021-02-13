@@ -43,7 +43,7 @@ var SiteTheme = {
 
     section: {
         label: 'Theme',
-        icon: 'pk-icon-large-brush',
+        icon: 'paint-bucket',
         priority: 15,
     },
 
